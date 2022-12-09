@@ -4,7 +4,7 @@ Young French 🇨🇵 entrepreneur 🧔 with a passion for the web 💻 and grap
 
 I followed a training in web development until obtaining a license in this field at OpenClassrooms 🎓
 
-Freelance for 3 years, I realized many projects 💼 using various technologies and always trying to deliver a quality, modern and professional product.
+Freelance for 4 years, I realized many projects 💼 using various technologies and always trying to deliver a quality, modern and professional product.
 
 Looking forward to meeting you.
 
