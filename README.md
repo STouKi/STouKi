@@ -5,15 +5,15 @@
 </h1>
 
 <p>
-  Young French 🇨🇵 entrepreneur 🧔 with a passion for the web 💻 and graphic design 🖌️<br />
-  I followed a training in web development until obtaining a license in this field at OpenClassrooms 🎓<br />
-  Freelance for 4 years, I realized many projects 💼 using various technologies and always trying to deliver a quality, modern and professional product.<br />
-  Looking forward to meeting you.<br />
+  French 🇨🇵 entrepreneur 🧔 with a passion for web development 💻, I put my skills to work on your projects to create modern, professional and tailor-made solutions.<br />
+  With 6 years of freelance experience, I've had the opportunity to work on a variety of projects 💼, from creating dynamic websites to designing impactful visual media.<br />
+  My aim is to propose solutions that combine performance 💪, aesthetics 😍 and innovation 💡.<br />
+  I'm always looking for new challenges and would be delighted to work with you to bring your projects to life 🌱.<br />
   See you soon! 😉
 </p>
 
 <ul>
-  <li>🔭 I’m currently working on <b>SpinforEat</b>
+  <li>🔭 I’m currently open to new opportunities</b>
   <li>👨‍💻 All of my projects are available at <a href="quentin-sastourne.com">quentin-sastourne.com</a></li>
   <li>💬 Ask me about <b>Vue</b> and <b>Node</b></li>
   <li>📫 Contact me at <a href="mailto:contact@quentin-sastourne.com">contact@quentin-sastourne.com</a></li>
